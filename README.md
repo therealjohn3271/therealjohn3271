@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @therealjohn3271
+- 👀 I’m interested in coding!
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: Discord ---> therealjohn#3271
